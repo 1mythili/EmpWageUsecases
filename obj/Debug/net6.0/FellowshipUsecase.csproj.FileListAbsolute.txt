@@ -1,0 +1,15 @@
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\bin\Debug\net6.0\FellowshipUsecase.exe
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\bin\Debug\net6.0\FellowshipUsecase.deps.json
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\bin\Debug\net6.0\FellowshipUsecase.runtimeconfig.json
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\bin\Debug\net6.0\FellowshipUsecase.dll
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\bin\Debug\net6.0\ref\FellowshipUsecase.dll
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\bin\Debug\net6.0\FellowshipUsecase.pdb
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\obj\Debug\net6.0\FellowshipUsecase.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\obj\Debug\net6.0\FellowshipUsecase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\obj\Debug\net6.0\FellowshipUsecase.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\obj\Debug\net6.0\FellowshipUsecase.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\obj\Debug\net6.0\FellowshipUsecase.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\obj\Debug\net6.0\FellowshipUsecase.dll
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\obj\Debug\net6.0\ref\FellowshipUsecase.dll
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\obj\Debug\net6.0\FellowshipUsecase.pdb
+C:\Users\ELCOT\source\repos\FellowshipUsecase\FellowshipUsecase\obj\Debug\net6.0\FellowshipUsecase.genruntimeconfig.cache
